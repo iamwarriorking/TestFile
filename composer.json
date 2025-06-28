@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "rubix/ml": "^2.3",
+        "thewirecutter/paapi5-php-sdk": "^1.0",
+        "minishlink/web-push": "^9.0"
+    }
+}

@@ -1,0 +1,327 @@
+[01-Jun-2025 17:03:59 Asia/Kolkata] Navbar - Session status - ID: msg5194df23m8nbjhdfhucf1ee, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748776742
+    [last_activity] => 1748777639
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:07:26 Asia/Kolkata] Navbar - Session status - ID: dee31cb1nh5v8rq9p9m4vjiq6f, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748777649
+    [last_activity] => 1748777846
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:14:32 Asia/Kolkata] Navbar - Session status - ID: dee31cb1nh5v8rq9p9m4vjiq6f, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748777649
+    [last_activity] => 1748778272
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:16:11 Asia/Kolkata] Navbar - Session status - ID: dee31cb1nh5v8rq9p9m4vjiq6f, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748777649
+    [last_activity] => 1748778371
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:20:11 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778611
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:20:31 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778631
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:20:32 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778632
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:20:32 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778632
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:20:33 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778633
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:20:34 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778634
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:21:09 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778669
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:21:11 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778671
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:22:32 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778752
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:22:33 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748778753
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:26:44 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748779004
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:28:02 Asia/Kolkata] Navbar - Session status - ID: 9svtt3cve6md1n9rv90298llpc, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748778611
+    [last_activity] => 1748779082
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 17:39:36 Asia/Kolkata] Navbar - Session status - ID: hnm3shbkq0hjrfj66aiftg6uhi, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748775770
+    [last_rotation] => 1748779776
+    [last_activity] => 1748779776
+    [csrf_token] => 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+    [csrf_token_expiry] => 1748779370
+    [admin_id] => 1
+    [is_admin] => 1
+    [username] => HiteshRajpurohit
+    [email] => iamrajpurohithitesh@gmail.com
+    [user_type] => admin
+    [authenticated] => 1
+    [jwt] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImlhbXJhanB1cm9oaXRoaXRlc2hAZ21haWwuY29tIiwidXNlcm5hbWUiOiJIaXRlc2hSYWpwdXJvaGl0IiwiaXNfYWRtaW4iOnRydWUsImV4cCI6MTc0ODg2MjIwNSwiaWF0IjoxNzQ4Nzc1ODA1fQ==.gT2TKvY5FA1Xkc2TF4QgphOvd/sp3ypBLCNtl3bk+OA=
+)
+
+[01-Jun-2025 19:41:56 Asia/Kolkata] Session not authenticated
+[01-Jun-2025 19:41:56 Asia/Kolkata] Admin authentication failed, redirecting to login
+[01-Jun-2025 19:41:56 Asia/Kolkata] Navbar - Session status - ID: t8o79a4brg1mg6i808qkcdemf0, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748787116
+    [last_rotation] => 1748787116
+    [last_activity] => 1748787116
+    [csrf_token] => 843c864a8de1aa569bb8e8d6238ba03ac79c3ad696eb18f9e5e58d88f7ae54fe
+    [csrf_token_expiry] => 1748790716
+)
+
+[01-Jun-2025 22:31:59 Asia/Kolkata] Navbar - Session status - ID: 1san1e3l0kt7jvhl6883i7crs2, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748787116
+    [last_rotation] => 1748797319
+    [last_activity] => 1748797319
+    [csrf_token] => 843c864a8de1aa569bb8e8d6238ba03ac79c3ad696eb18f9e5e58d88f7ae54fe
+    [csrf_token_expiry] => 1748790716
+)
+
+[01-Jun-2025 22:32:11 Asia/Kolkata] Navbar - Session status - ID: 1san1e3l0kt7jvhl6883i7crs2, Data: Array
+(
+    [initialized] => 1
+    [created_at] => 1748787116
+    [last_rotation] => 1748797319
+    [last_activity] => 1748797331
+    [csrf_token] => 843c864a8de1aa569bb8e8d6238ba03ac79c3ad696eb18f9e5e58d88f7ae54fe
+    [csrf_token_expiry] => 1748790716
+)
+
+[01-Jun-2025 23:20:44 Asia/Kolkata] Navbar - Session status - ID: 0dbkjj6ho4fatecljj95vkkvf6, Data: Array
+(
+    [csrf_token] => 9a193de2165dbf002d0e7381679f2d136963d1cf12bb139f73c79d64d7944e01
+    [csrf_token_expiry] => 1748803844
+)
+

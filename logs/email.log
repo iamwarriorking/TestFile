@@ -1,0 +1,11 @@
+{"timestamp":"2025-06-01 17:28:11","message":"Starting email send process","to":"officialhiteshraj@gmail.com","subject":"Test Mail","type":"offers"}
+[2025-06-01 17:28:11] Attempting to send email
+To: officialhiteshraj@gmail.com
+Subject: Test Mail
+Type: offers
+Mail Configuration:
+Server: smtp.hostinger.com
+Port: 465
+Username: offers@amezprice.com
+[2025-06-01 17:28:14] Email sent successfully to officialhiteshraj@gmail.com
+{"timestamp":"2025-06-01 17:28:14","message":"Email sent successfully","to":"officialhiteshraj@gmail.com","attempt":1,"type":"offers"}

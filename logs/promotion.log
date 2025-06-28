@@ -1,0 +1,28 @@
+[2025-06-01 17:04:09] Email CSRF Token Check - Received: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4, Expected: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+[2025-06-01 17:04:09] Raw input: {"subject":"Test Mail","message":"thi is test mail bro"}
+[2025-06-01 17:04:09] Parsed - Subject: 'Test Mail', Message length: 20
+[2025-06-01 17:07:33] Email CSRF Token Check - Received: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4, Expected: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+[2025-06-01 17:07:33] Raw input: {"subject":"Test Mail","message":"this is test"}
+[2025-06-01 17:07:33] Parsed - Subject: 'Test Mail', Message length: 12
+[2025-06-01 17:14:41] Email CSRF Token Check - Received: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4, Expected: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+[2025-06-01 17:14:41] Raw input: {"subject":"Test Mail","message":"this is test mail"}
+[2025-06-01 17:14:41] Parsed - Subject: 'Test Mail', Message length: 17
+[2025-06-01 17:16:18] Email CSRF Token Check - Received: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4, Expected: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+[2025-06-01 17:16:18] Raw input: {"subject":"Test Mail","message":"test"}
+[2025-06-01 17:16:18] Parsed - Subject: 'Test Mail', Message length: 4
+[2025-06-01 17:20:19] Email CSRF Token Check - Received: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4, Expected: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+[2025-06-01 17:20:19] Raw input: {"subject":"Test Mail","message":"test"}
+[2025-06-01 17:20:19] Parsed - Subject: 'Test Mail', Message length: 4
+[2025-06-01 17:21:19] Email CSRF Token Check - Received: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4, Expected: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+[2025-06-01 17:21:19] Raw input: {"subject":"Test Mail","message":"test"}
+[2025-06-01 17:21:19] Parsed - Subject: 'Test Mail', Message length: 4
+[2025-06-01 17:23:35] Email CSRF Token Check - Received: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4, Expected: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+[2025-06-01 17:23:35] Raw input: {"subject":"Test Mail","message":"test mail"}
+[2025-06-01 17:23:35] Parsed - Subject: 'Test Mail', Message length: 9
+[2025-06-01 17:26:55] Email CSRF Token Check - Received: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4, Expected: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+[2025-06-01 17:26:55] Raw input: {"subject":"Test Mail","message":"This is test mail"}
+[2025-06-01 17:26:55] Parsed - Subject: 'Test Mail', Message length: 17
+[2025-06-01 17:28:11] Email CSRF Token Check - Received: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4, Expected: 5d81b3906c1e907b54b5d138f76576c4733bdf2057ba8765cc52c2107e9cd1e4
+[2025-06-01 17:28:11] Raw input: {"subject":"Test Mail","message":"this is test mail"}
+[2025-06-01 17:28:11] Parsed - Subject: 'Test Mail', Message length: 17
+[2025-06-01 17:28:14] Email promotion sent to 1 users

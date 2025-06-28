@@ -1,0 +1,52 @@
+# Session Security
+php_value session.cookie_httponly 1
+php_value session.cookie_secure 1
+php_value session.use_only_cookies 1
+php_value session.cookie_samesite "Lax"
+
+# Force HTTPS and remove WWW
+RewriteEngine On
+
+# Redirect WWW to non-WWW (HTTPS)
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1%{REQUEST_URI} [R=301,L]
+
+# Force HTTPS for non-WWW
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Product page routing - ADD THIS NEW RULE
+RewriteRule ^product/([^/]+)/pid=([^/]+)/?$ pages/product.php?merchant=$1&pid=$2 [QSA,L]
+
+# Prevent direct access to PHP files in certain directories
+RewriteRule ^(config|logs|email|middleware|ai_engine)/ - [F]
+
+# ========================
+# BROWSER CACHE CONTROL (Without mod_expires)
+# ========================
+
+# Disable caching for PHP files
+<FilesMatch "\.(php)$">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "0"
+</FilesMatch>
+
+# Cache static assets
+<FilesMatch "\.(css|js|png|jpg|jpeg|gif|webp|svg|ico|woff|woff2|ttf|eot)$">
+    Header set Cache-Control "public, max-age=2592000"
+    Header set Expires "Thu, 31 Dec 2037 23:55:55 GMT"
+</FilesMatch>
+
+# Cache HTML files for short time
+<FilesMatch "\.(html|htm)$">
+    Header set Cache-Control "public, max-age=3600"
+    Header set Expires "Thu, 31 Dec 2025 23:55:55 GMT"
+</FilesMatch>
+
+# Set secure headers
+Header set X-Content-Type-Options "nosniff"
+Header set X-Frame-Options "SAMEORIGIN"
+Header set X-XSS-Protection "1; mode=block"
+Header set Referrer-Policy "strict-origin-when-cross-origin"
